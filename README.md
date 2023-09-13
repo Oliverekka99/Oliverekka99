@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver Ekka</h1>
-<h3 align="center">A passionate fullstack,devops,ml developer from India</h3>
+<h3 align="center">A passionate fullstack,devops,ml developer from India. Now a days, Learn any tech stack very fast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverekka99&label=Profile%20views&color=0e75b6&style=flat" alt="oliverekka99" /> </p>
 
